@@ -1,4 +1,4 @@
-package desafios.loop;
+package loop;
 import java.util.Scanner;
 public class impares {
     public static void main(String[] args) {
